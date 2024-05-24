@@ -62,7 +62,7 @@ Other datasets may be added as the project evolves to enhance the analysis and m
 - **Comprehensive Reporting**: Detailing methodology, findings, and insights.
 - **Project Reflection**: Discussing challenges and lessons learned.
 - **Presentation**: Creating slides or dashboards for stakeholder communication.
-- **Tools & Techniques**: Jupyter Notebooks for comprehensive documentation, Tableau for dashboards, Markdown for README files.
+- **Tools & Techniques**: Jupyter Notebooks for comprehensive documentation, Power BI for dashboards, Markdown for README files.
 
 
 ## 🔄 Progress Updates
