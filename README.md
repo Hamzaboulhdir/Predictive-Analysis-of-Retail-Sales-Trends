@@ -24,7 +24,7 @@ Other datasets may be added as the project evolves to enhance the analysis and m
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels for data manipulation, analysis, and predictive modeling.
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) For data querying and manipulation.
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white) For initial data exploration and analysis.
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) For creating interactive data visualizations.
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=white) For creating interactive data visualizations.
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) Notebooks For documenting the analysis process and findings.
 
 ## 🚀 Project Phases
